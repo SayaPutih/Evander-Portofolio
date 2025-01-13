@@ -33,9 +33,7 @@
                             </span>
                         </h1>
                         <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. At impedit suscipit non necessitatibus, 
-                            ducimus quos sequi nam? Dolorem veritatis cum corrupti consequuntur molestias, 
-                            fugiat magnam fuga inventore facilis voluptatum. Facilis.
+                            Hi I'm Evander Nikolai a passionate Full-Stack Developer and SQL enthusiast dedicated to building innovative solutions. I thrive on crafting seamless applications, analyzing data, and shaping the future of technology. I also enjoy exploring Unity and creating impactful projects in data analysis and development.
                         </p>
 
                         <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
