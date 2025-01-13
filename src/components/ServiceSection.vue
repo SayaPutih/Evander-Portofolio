@@ -1,7 +1,7 @@
 <template>
     <section class="text-white mt-20" id="services">
         <div class="px-4 xl:pl-16">
-            <h2 class="text-4xl font-bold text-white mb-4">Services include</h2>
+            <h2 class="text-4xl font-bold text-white mb-4">Services include</h2><p><i>Swipe left</i></p>
         </div>
 
         <!-- Main container for the services -->
