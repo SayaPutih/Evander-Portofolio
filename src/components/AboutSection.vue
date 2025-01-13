@@ -14,8 +14,8 @@
 
                 <div class="space-y-8 py-8 " >
                     <div v-for="selected in education" :key="selected.id"
-                    class="flex items-center md:w-[80%] bg-gradient-to-br
-                    from-boxColor to-[#111a3e]
+                    class="flex items-center md:w-[80%] border-boxSeconColor bg-gradient-to-br 
+                    from-boxColor to-[#111a3e] 
                     rounded-[1rem] p-7">
                         <div class="w-1/4">
                             <img :src="selected.image" alt="">
