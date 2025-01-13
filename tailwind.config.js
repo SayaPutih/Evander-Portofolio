@@ -8,7 +8,7 @@ export default {
         secondary: '#7B5CFF', // Warna kedua (darker purple-blue)
         bgcolor: '#000000', // Background dengan nuansa ungu kebiruan yang soft
         boxColor: '#111a3e', // Warna box lebih terang dengan nuansa ungu lembut
-        boxSeconColor: '#39478f', // Border box lebih terang dengan ungu pastel
+        boxSeconColor: '#7886cc', // Border box lebih terang dengan ungu pastel
       },
       gradientColorStops: {
         purpleBlue: ['#6C63FF', '#7B5CFF'], // Gradasi dari biru ke ungu
