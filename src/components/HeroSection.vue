@@ -79,7 +79,7 @@
     </section>
 </template>
 <script setup>
-import resume from '@/assets/resume.pdf';
+import resume from '@/assets/EvanderNikolai-CV.pdf';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 AOS.init();
