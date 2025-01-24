@@ -27,7 +27,7 @@
                     <div class="text-center lg:text-left">
 
                         <h1 class="pt-4 text-white font-bold text-4xl md:text-5xl lg:text-6xl">
-                            Hi, I'm 
+                            Hi,I'm 
                             <span class="whitespace-nowrap text-transparent bg-clip-text bg-gradient-to-r from-primary to-pink-900">
                                 Evander Nikolai
                             </span>
@@ -79,6 +79,7 @@
     </section>
 </template>
 <script setup>
+
 import resume from '@/assets/resume.pdf';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
