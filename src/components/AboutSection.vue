@@ -93,7 +93,7 @@ const data = ref(
         },
         {
             id:2,
-            number:'3.41',
+            number:'3.45',
             desc:'G.P.A Score',
         },
         {
